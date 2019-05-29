@@ -1,0 +1,26 @@
+AnchorPane{
+    -fx-background-color:#2F4F4F;
+}
+
+#deleteButton{
+    -fx-background-color:#696969;
+}
+#saveButton{
+    -fx-background-color:#696969;
+}
+#catButton{
+    -fx-background-color:#696969;
+}
+#refreshButton{
+    -fx-background-color:#696969;
+}
+#doneButton{
+    -fx-background-color:#696969;
+}
+#doneAllButton{
+    -fx-background-color:#696969;
+}
+#doneNotButton{
+    -fx-background-color:#696969;
+}
+
